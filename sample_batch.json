@@ -1,0 +1,24 @@
+{
+  "batch_number": 1,
+  "title": "Math: Mixed Practical Word Problems I",
+  "questions": [
+    {
+      "text": "If 6 shirts and 5 pants cost $120, and 5 shirts and 5 pants cost $90, how much does 1 shirt cost?",
+      "options": ["$15", "$30", "$25", "$20"],
+      "answer": "B",
+      "explanation": "Because 6 shirts - 5 shirts = 1 shirt, and 120 - 90 = 30."
+    },
+    {
+      "text": "A cyclist travels at 15 km/h for 2 hours, then rests for 30 minutes, and finishes 10 km in 30 minutes. What was the average cycling speed (excluding rest)?",
+      "options": ["16 km/h", "$18 km/h", "20 km/h", "15 km/h"],
+      "answer": "A",
+      "explanation": "Total cycling distance = (15 * 2) + 10 = 40 km. Total cycling time = 2h + 0.5h = 2.5h. Average speed = 40 / 2.5 = 16 km/h."
+    },
+    {
+      "text": "In a class of 40 students, 25 play football, 20 play basketball, and 8 play neither. How many students play both sports?",
+      "options": ["10", "13", "15", "18"],
+      "answer": "B",
+      "explanation": "Students playing at least one sport = 40 - 8 = 32. Both = (25 + 20) - 32 = 13."
+    }
+  ]
+}

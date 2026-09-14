@@ -1,0 +1,6 @@
+{
+  "name": "NathVerse Telegram Quiz Bot",
+  "description": "Production-ready Telegram quiz bot with progressive cooldowns, scheduled channel broadcasts, SQLite storage, and an interactive quiz management studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
